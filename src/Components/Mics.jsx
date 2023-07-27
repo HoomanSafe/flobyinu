@@ -47,7 +47,7 @@ const Mics = () => {
 
           <div className="flex flex-col gap-12">
             <h1 className="text-zinc-300 text-2xl font-normal leading-[33.60px] tracking-wide">
-              Token Distribution
+              Tax Distribution
             </h1>
             <div className="flex flex-col gap-6">
               <article className="flex flex-col gap-6">
