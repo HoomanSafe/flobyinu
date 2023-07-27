@@ -11,7 +11,7 @@ const Mics = () => {
               TOKENOMICS
             </h1>
             <p className="text-white text-xl font-Bungee leading-7 tracking-tight">
-              Total Supply: 10,000,000 $PEGASUS
+              Total Supply: 1,000,000 $PEGASUS
             </p>
 
             <div className="py-10 flex flex-col gap-5 border-b">
@@ -21,11 +21,11 @@ const Mics = () => {
               </h4>
               <h4 className="flex items-center gap-4">
                 <AiOutlineCheck />
-                Max Wallet: 5% Of The Supply
+                Max Wallet: No Max Wallet
               </h4>
               <h4 className="flex items-center gap-4">
                 <AiOutlineCheck />
-                Max TXN: 2% Of The Supply
+                Max TXN: No Max Txn
               </h4>
             </div>
 

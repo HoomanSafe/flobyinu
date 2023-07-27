@@ -6,6 +6,7 @@ import Banner from "./Components/Banner";
 import Mics from "./Components/Mics";
 import Footer from "./Components/Footer";
 import Map from "./Components/Map";
+import Features from "./Components/Features";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <About />
       <Banner />
       <Map />
+      <Features />
       <Mics />
       <Footer />
     </div>
