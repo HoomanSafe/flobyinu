@@ -12,8 +12,10 @@ const Footer = () => {
           TODAY
         </h1>
         <p className="max-w-[599px] text-center text-white text-base font-normal leading-snug tracking-tight">
-          LootBot operates on various chains and protocols. Join today and start
-          your farming journey.
+          Reigning in as a gift from Gods, Pegasus SniperBot aims to gives users
+          the best experience by using highly sophisticated software and
+          services. From anti rug features all the way down to auto selling
+          while you sleep has never been this easy!
         </p>
         <a
           href="t.me/pegasussniper"
