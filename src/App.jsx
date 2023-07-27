@@ -7,12 +7,14 @@ import Mics from "./Components/Mics";
 import Footer from "./Components/Footer";
 import Map from "./Components/Map";
 import Features from "./Components/Features";
+import Snipping from "./Components/Snipping";
 
 const App = () => {
   return (
     <div className="min-h-screen w-full relative gradi text-white font-Space">
       <Header />
       <Hero />
+      <Snipping />
       <About />
       <Banner />
       <Map />
