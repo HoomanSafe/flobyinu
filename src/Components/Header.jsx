@@ -13,11 +13,11 @@ const Header = () => {
           <li className="cursor-pointer">tokenomics</li>
         </ul>
         <a
-          href=""
-          className="hidden md:block px-8 py-4 rounded shadow border border-white justify-center items-center gap-2.5 "
+          href="https://t.me/pegasussniperbot"
+          className=" md:block px-8 py-4 rounded shadow border border-white justify-center items-center gap-2.5 "
         >
           <div className="text-zinc-300 text-base font-Bungee leading-snug tracking-tight">
-            MEET PEAGASUS
+            LAUNCH BOT
           </div>
         </a>
       </div>

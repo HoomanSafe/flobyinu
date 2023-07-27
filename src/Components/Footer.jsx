@@ -25,7 +25,7 @@ const Footer = () => {
         </a>
 
         <div className="flex items-center gap-6">
-          <a href="">
+          <a href="https://t.me/pegasussniperbot">
             <svg
               width="40"
               height="48"
@@ -46,7 +46,7 @@ const Footer = () => {
               </defs>
             </svg>
           </a>
-          <a href="">
+          <a href="https://twitter.com/pegasussniper">
             <svg
               width="40"
               height="48"
@@ -60,7 +60,7 @@ const Footer = () => {
               />
             </svg>
           </a>
-          <a href="">
+          <a href="https://etherscan.io/token/0x6736154ab9404d8aca8667b6b89858d49aba652f">
             <svg
               width="40"
               height="48"
@@ -90,7 +90,7 @@ const Footer = () => {
               </defs>
             </svg>
           </a>
-          <a href="">
+          <a href="https://www.dextools.io/app/en/ether/pair-explorer/0xc499ae97540e8a495123d8de5bb9f0ff23698594">
             <svg
               width="40"
               height="48"
@@ -118,7 +118,7 @@ const Footer = () => {
               </defs>
             </svg>
           </a>
-          <a href="">
+          <a href="https://medium.com/@PegasusSniperbot">
             <svg
               width="40"
               height="48"
@@ -144,7 +144,7 @@ const Footer = () => {
               </defs>
             </svg>
           </a>
-          <a href="">
+          <a href="https://discord.gg/FdPDaXeAb3">
             <svg
               width="40"
               height="48"
