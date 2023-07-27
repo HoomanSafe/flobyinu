@@ -11,25 +11,25 @@ const Mics = () => {
               TOKENOMICS
             </h1>
             <p className="text-white text-xl font-Bungee leading-7 tracking-tight">
-              Total Supply: 10,000,000 $PEGASUS BOOT
+              Total Supply: 10,000,000 $PEGASUS
             </p>
 
             <div className="py-10 flex flex-col gap-5 border-b">
               <h4 className="flex items-center gap-4">
                 <AiOutlineCheck />
-                Buy/Sell Tax: 5% tax applied to each transaction of $LOOT
+                Buy/Sell Tax: 5% tax applied to each transaction of $PEGASUS
               </h4>
               <h4 className="flex items-center gap-4">
                 <AiOutlineCheck />
-                First 6 months: 1% for LP, 4% for team
+                Max Wallet: 5% Of The Supply
               </h4>
               <h4 className="flex items-center gap-4">
                 <AiOutlineCheck />
-                After 6 months: 1% for LP, 2% for revenue sharing, 2% for team{" "}
+                Max TXN: 2% Of The Supply
               </h4>
             </div>
 
-            <div className="py-10 flex flex-col gap-5">
+            {/* <div className="py-10 flex flex-col gap-5">
               <h4 className="flex items-center gap-4">
                 <AiOutlineCheck />
                 Buy/Sell Tax: 5% tax applied to each transaction of $LOOT
@@ -42,7 +42,7 @@ const Mics = () => {
                 <AiOutlineCheck />
                 After 6 months: 1% for LP, 2% for revenue sharing, 2% for team{" "}
               </h4>
-            </div>
+            </div> */}
           </div>
 
           <div className="flex flex-col gap-12">
@@ -52,11 +52,11 @@ const Mics = () => {
             <div className="flex flex-col gap-6">
               <article className="flex flex-col gap-6">
                 <h1 className="text-white text-2xl font-bold leading-[33.60px] tracking-wide">
-                  500, 000
+                  25%
                 </h1>
                 <div className="w-full h-9 flex-col justify-start items-start gap-2 inline-flex">
                   <div className="opacity-60 text-center text-white text-base font-normal leading-snug tracking-tight">
-                    Team Founder (5%)
+                    MARKETING (25%)
                   </div>
                   <div className="w-full h-1.5 bg-white rounded-full justify-start items-center inline-flex">
                     <div className="w-12 h-1.5 relative bg-orange-600 rounded-full" />
@@ -65,11 +65,11 @@ const Mics = () => {
               </article>
               <article className="flex flex-col gap-6">
                 <h1 className="text-white text-2xl font-bold leading-[33.60px] tracking-wide">
-                  500, 000
+                  11%
                 </h1>
                 <div className="w-full h-9 flex-col justify-start items-start gap-2 inline-flex">
                   <div className="opacity-60 text-center text-white text-base font-normal leading-snug tracking-tight">
-                    Team Founder (5%)
+                    Liquidity Pool (11%)
                   </div>
                   <div className="w-full h-1.5 bg-white rounded-full justify-start items-center inline-flex">
                     <div className="w-12 h-1.5 relative bg-lime-500 rounded-full" />
@@ -78,11 +78,24 @@ const Mics = () => {
               </article>
               <article className="flex flex-col gap-6">
                 <h1 className="text-white text-2xl font-bold leading-[33.60px] tracking-wide">
-                  500, 000
+                  25%
                 </h1>
                 <div className="w-full h-9 flex-col justify-start items-start gap-2 inline-flex">
                   <div className="opacity-60 text-center text-white text-base font-normal leading-snug tracking-tight">
-                    Team Founder (5%)
+                    BotMaintenance (25%)
+                  </div>
+                  <div className="w-full h-1.5 bg-white rounded-full justify-start items-center inline-flex">
+                    <div className="w-12 h-1.5 relative bg-red-600 rounded-full" />
+                  </div>
+                </div>
+              </article>
+              <article className="flex flex-col gap-6">
+                <h1 className="text-white text-2xl font-bold leading-[33.60px] tracking-wide">
+                  25%
+                </h1>
+                <div className="w-full h-9 flex-col justify-start items-start gap-2 inline-flex">
+                  <div className="opacity-60 text-center text-white text-base font-normal leading-snug tracking-tight">
+                    DevFee (25%)
                   </div>
                   <div className="w-full h-1.5 bg-white rounded-full justify-start items-center inline-flex">
                     <div className="w-12 h-1.5 relative bg-red-600 rounded-full" />

@@ -9,15 +9,13 @@ const Hero = () => {
           HELLO, HUMAN
         </h2>
         <h1 className="text-center text-white text-5xl md:text-6xl font-Bungee tracking-wider">
-          READY TO
+          YOUR TOKEN SNIPPING
           <br />
-          PEGASUS SNIPERBOT
+          AUTOMATED BY PEGASUS SNIPERBOT
         </h1>
         <p className="text-center max-w-2xl text-white text-base font-normal leading-loose tracking-tight">
-          Pegasus SniperBot is a Telegram bot that automates on-chain
-          interactions and acts as a streamline frontend for hundreds of chains.
-          Anyone can create or follow automated tasks that could help with
-          objectives such as Airdrop Farming.
+          Pegasus SniperBot performs a wide range of automated tasks across
+          didferent protocols, on supported chain
         </p>
         <a
           href="https://t.me/pegasussniperbot"
