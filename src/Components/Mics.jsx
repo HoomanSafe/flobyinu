@@ -65,11 +65,11 @@ const Mics = () => {
               </article>
               <article className="flex flex-col gap-6">
                 <h1 className="text-white text-2xl font-bold leading-[33.60px] tracking-wide">
-                  11%
+                  25%
                 </h1>
                 <div className="w-full h-9 flex-col justify-start items-start gap-2 inline-flex">
                   <div className="opacity-60 text-center text-white text-base font-normal leading-snug tracking-tight">
-                    Liquidity Pool (11%)
+                    Liquidity Pool (25%)
                   </div>
                   <div className="w-full h-1.5 bg-white rounded-full justify-start items-center inline-flex">
                     <div className="w-12 h-1.5 relative bg-lime-500 rounded-full" />
