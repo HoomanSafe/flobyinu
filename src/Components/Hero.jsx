@@ -22,7 +22,7 @@ const Hero = () => {
           className="w-[219px] h-[54px] text-black hover:text-white px-8 py-4 bg-gradient-to-r from-yellow-400 to-rose-600 rounded shadow justify-center items-center gap-2.5 inline-flex"
         >
           <div className=" text-base font-Bungee leading-snug tracking-tight">
-            MEET PEAGASUS
+            MEET PEGASUS
           </div>
         </a>
 
