@@ -1,0 +1,37 @@
+@import url("https://fonts.cdnfonts.com/css/bungee-inline");
+@import url("https://fonts.cdnfonts.com/css/space-grotesk");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+  .gradi,
+  #hero {
+    background: var(--bg, linear-gradient(180deg, #d60e3c 0%, #e0463a 100%));
+  }
+  article.abi {
+    border-radius: 24px;
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(150px);
+  }
+  .token {
+    background: var(
+      --buttonpegasus,
+      linear-gradient(90deg, #ffb801 50%, #0bf3f3 100%)
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .token2 {
+    background: var(
+      --buttonpegasus,
+      linear-gradient(90deg, #ffb801 50%, #0bf3f3 100%)
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+}
