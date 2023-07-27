@@ -24,7 +24,7 @@ const Footer = () => {
           </div>
         </a>
 
-        <div className="flex flex-wrap items-center gap-6">
+        <div className="flex flex-wrap items-center gap-6 justify-center">
           <a href="https://t.me/pegasussniperbot">
             <svg
               width="40"
