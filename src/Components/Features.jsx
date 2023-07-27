@@ -1,4 +1,7 @@
 import React from "react";
+import feature1 from "../assets/feature1.svg";
+import feature2 from "../assets/feature2.svg";
+import feature3 from "../assets/feature3.svg";
 
 const Features = () => {
   return (
@@ -19,6 +22,12 @@ const Features = () => {
           From anti rug features all the way down to auto selling while you
           sleep has never been this easy!
         </p>
+
+        <div className="grid w-full mt-16 grid-cols-1 lg:grid-cols-3 justify-center items-center gap-10">
+          <img src={feature1} alt="" className="pointer-events-none" />
+          <img src={feature2} alt="" className="pointer-events-none" />
+          <img src={feature3} alt="" className="pointer-events-none" />
+        </div>
       </div>
     </section>
   );
