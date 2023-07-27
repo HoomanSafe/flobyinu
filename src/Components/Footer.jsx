@@ -16,7 +16,7 @@ const Footer = () => {
           your farming journey.
         </p>
         <a
-          href=""
+          href="t.me/pegasussniper"
           className="w-[138px] h-[54px] px-8 py-4 bg-gradient-to-r from-yellow-500 to-cyan-400 rounded shadow justify-center items-center gap-2.5 inline-flex"
         >
           <div className="text-black text-base font-Bungee leading-snug tracking-tight">
