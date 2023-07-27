@@ -14,7 +14,7 @@ const Header = () => {
         </ul>
         <a
           href="https://t.me/pegasussniperbot"
-          className=" md:block px-8 py-4 rounded shadow border border-white justify-center items-center gap-2.5 "
+          className="hidden md:block px-8 py-4 rounded shadow border border-white justify-center items-center gap-2.5 "
         >
           <div className="text-zinc-300 text-base font-Bungee leading-snug tracking-tight">
             LAUNCH BOT
