@@ -17,7 +17,7 @@ const Mics = () => {
             <div className="py-10 flex flex-col gap-5 border-b">
               <h4 className="flex items-center gap-4">
                 <AiOutlineCheck />
-                Buy/Sell Tax: 5% tax applied to each transaction of $PEGASUS
+                Buy/Sell Tax: 5% tax applied to each transaction of $PEGASUS.
               </h4>
               <h4 className="flex items-center gap-4">
                 <AiOutlineCheck />

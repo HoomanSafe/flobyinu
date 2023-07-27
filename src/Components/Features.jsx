@@ -17,10 +17,10 @@ const Features = () => {
         </h1>
 
         <p className="max-w-[757px] text-center text-white text-xl font-medium leading-10 tracking-tight">
-          Reigning in as gift from Gods, Pegasus Sniperbot aims to give users
-          the experiences by using highly sophisticated software and services.
-          From anti rug features all the way down to auto selling while you
-          sleep has never been this easy!
+          Reigning in as a gift from the Gods, Pegasus SniperBot aims to give
+          users the best experience by utilizing highly sophisticated software
+          and services. From anti-rug features all the way down to auto-selling
+          while you sleep, it has never been this easy!
         </p>
 
         <div className="grid w-full mt-16 grid-cols-1 lg:grid-cols-3 justify-center items-center gap-10">

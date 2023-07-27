@@ -9,13 +9,13 @@ const Hero = () => {
           HELLO, HUMAN
         </h2>
         <h1 className="text-center text-white text-5xl md:text-6xl font-Bungee tracking-wider">
-          YOUR TOKEN SNIPPING
+          YOUR TOKEN SNIPPET
           <br />
-          AUTOMATED BY PEGASUS SNIPERBOT
+          AUTOMATED BY PEGASUS SNIPER BOT
         </h1>
         <p className="text-center max-w-2xl text-white text-base font-normal leading-loose tracking-tight">
           Pegasus SniperBot performs a wide range of automated tasks across
-          didferent protocols, on supported chain
+          different protocols on supported chains.
         </p>
         <a
           href="https://t.me/pegasussniperbot"

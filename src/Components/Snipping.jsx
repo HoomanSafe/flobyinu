@@ -6,7 +6,7 @@ const Snipping = () => {
       <div className="container flex justify-center items-center">
         <article className="flex h-auto abi flex-col items-center justify-center text-center w-full p-10 gap-12">
           <h1 className="text-center text-white text-4xl md:text-5xl font-Bungee leading-[67.20px] tracking-wide">
-            START auto sniping
+            START auto-snipping
           </h1>
 
           <div className="w-full grid grid-cols-1 lg:grid-cols-3 justify-center items-center gap-10">
@@ -57,7 +57,7 @@ const Snipping = () => {
                 <div className="text-center text-white text-base font-medium leading-10 tracking-tight">
                   You can generate a new wallets or links
                   <br />
-                  an existin wallet
+                  an existing wallet
                 </div>
               </div>
             </div>

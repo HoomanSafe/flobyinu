@@ -12,10 +12,10 @@ const About = () => {
           </h1>
 
           <div className="text-center text-white text-xl font-medium leading-10">
-            Reigning in as a gift from Gods, Pegasus SniperBot aims to gives
-            users the best experience by using highly sophisticated software and
-            services. From anti rug features all the way down to auto selling
-            while you sleep has never been this easy!
+            Reigning in as a gift from the Gods, Pegasus SniperBot aims to give
+            users the best experience by utilizing highly sophisticated software
+            and services. From anti-rug features all the way down to
+            auto-selling while you sleep, it has never been this easy!
           </div>
         </article>
       </div>
