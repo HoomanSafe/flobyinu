@@ -9,7 +9,7 @@ const Hero = () => {
           HELLO, HUMAN
         </h2>
         <h1 className="text-center text-white text-5xl md:text-6xl font-Bungee tracking-wider">
-          YOUR TOKEN SNIPPET
+          YOUR TOKEN SNIPER
           <br />
           AUTOMATED BY PEGASUS SNIPER BOT
         </h1>
