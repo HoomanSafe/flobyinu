@@ -8,7 +8,7 @@ const About = () => {
           <h1 className="text-center text-white text-5xl font-Bungee leading-[67.20px] tracking-wide">
             ABOUT PEGASUS
             <br />
-            SNPIERBOT
+            SNIPIERBOT
           </h1>
 
           <div className="text-center text-white text-xl font-medium leading-10">
