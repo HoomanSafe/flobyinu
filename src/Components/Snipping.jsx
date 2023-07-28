@@ -52,7 +52,7 @@ const Snipping = () => {
               </div>
               <div className="flex-col justify-start items-center gap-4 flex">
                 <div className="text-center text-white text-xl font-bold leading-7 tracking-tight">
-                  Set Up A Wallets
+                  Set up a wallet
                 </div>
                 <div className="text-center text-white text-base font-medium leading-10 tracking-tight">
                   You can generate a new wallets or links
@@ -69,7 +69,7 @@ const Snipping = () => {
               </div>
               <div className="flex-col justify-start items-center gap-4 flex">
                 <div className="text-center text-white text-xl font-bold leading-7 tracking-tight">
-                  Become A god
+                  Become a god
                 </div>
                 <div className="text-center text-white text-base font-medium leading-10 tracking-tight">
                   You may now begin your journey <br />
