@@ -8,10 +8,10 @@ const Hero = () => {
         <h2 className="text-white text-2xl font-Bungee leading-[33.60px] tracking-wide">
           HELLO, HUMAN
         </h2>
-        <h1 className="text-center text-white text-5xl md:text-6xl font-Bungee tracking-wider">
-          YOUR TOKEN SNIPER
+        <h1 className="text-center uppercase text-white text-5xl md:text-6xl font-Bungee tracking-wider">
+          Your token sniping
           <br />
-          AUTOMATED BY PEGASUS SNIPER BOT
+          automated by Pegasus Sniperbot
         </h1>
         <p className="text-center max-w-2xl text-white text-base font-normal leading-loose tracking-tight">
           Pegasus SniperBot performs a wide range of automated tasks across
