@@ -177,7 +177,7 @@ const Footer = () => {
         </div>
 
         <div className="text-white text-center max-w-[600px] text-xl font-normal leading-7 tracking-tight">
-          Pegasus SniperBot {Date()} ©-All Rights Reserved.
+          Pegasus Sniperbot {Date()} ©-All Rights Reserved.
         </div>
       </div>
     </footer>
