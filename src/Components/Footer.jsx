@@ -5,20 +5,17 @@ const Footer = () => {
     <footer className="py-20 w-full">
       <div className="container flex gap-8 justify-center items-center flex-col">
         <h3 className="text-center token2 text-2xl font-bold leading-[33.60px] tracking-wide">
-          Join Pegasus SniperBot
+          Join Floby Inu
         </h3>
         <h1 className="text-center text-white text-5xl font-Bungee tracking-wide">
-          GET PEGASUS SNIPERBOT <br />
-          TODAY
+          GET FLOBY SNIPERBOT <br />
+          SOON
         </h1>
         <p className="max-w-[599px] text-center text-white text-base font-normal leading-snug tracking-tight">
-          Reigning in as a gift from the Gods, Pegasus SniperBot aims to give
-          users the best experience by using highly sophisticated software and
-          services. From anti-rug features all the way down to auto-selling
-          while you sleep, it has never been this easy!
+         Floby Inu is meme token on the #Binance Network, #Floby inspired by the successful journey of #Floki and aim to be his successor. We hope all people can participate in 
         </p>
         <a
-          href="t.me/pegasussniper"
+          href="https://t.me/FlobyInU"
           className="w-[138px] h-[54px] px-8 py-4 bg-gradient-to-r from-yellow-500 to-cyan-400 rounded shadow justify-center items-center gap-2.5 inline-flex"
         >
           <div className="text-black text-base font-Bungee leading-snug tracking-tight">
@@ -27,7 +24,7 @@ const Footer = () => {
         </a>
 
         <div className="flex flex-wrap items-center gap-6 justify-center">
-          <a href="https://t.me/pegasussniperbot">
+          <a href="https://t.me/FlobyInU">
             <svg
               width="40"
               height="48"
@@ -48,7 +45,7 @@ const Footer = () => {
               </defs>
             </svg>
           </a>
-          <a href="https://twitter.com/pegasussniper">
+          <a href="https://x.com/Flobyinubsc">
             <svg
               width="40"
               height="48"
@@ -62,7 +59,7 @@ const Footer = () => {
               />
             </svg>
           </a>
-          <a href="https://etherscan.io/token/0x6736154ab9404d8aca8667b6b89858d49aba652f">
+          <a href="https://bscscan.com/token/0x354806a6463f6606700d161c5363af41d547c9e2">
             <svg
               width="40"
               height="48"
@@ -92,7 +89,7 @@ const Footer = () => {
               </defs>
             </svg>
           </a>
-          <a href="https://www.dextools.io/app/en/ether/pair-explorer/0xc499ae97540e8a495123d8de5bb9f0ff23698594">
+          <a href="https://www.dextools.io/app/en/bnb/pair-explorer/0xf9ca97f812a78c24f5cff6dfe24cd2ef736805ca?t=1734707006751">
             <svg
               width="40"
               height="48"
@@ -120,7 +117,7 @@ const Footer = () => {
               </defs>
             </svg>
           </a>
-          <a href="https://medium.com/@PegasusSniperbot">
+          <a href="https://medium.com/">
             <svg
               width="40"
               height="48"
@@ -146,7 +143,7 @@ const Footer = () => {
               </defs>
             </svg>
           </a>
-          <a href="https://discord.gg/FdPDaXeAb3">
+          <a href="">
             <svg
               width="40"
               height="48"
@@ -160,7 +157,7 @@ const Footer = () => {
               />
             </svg>
           </a>
-          <a href="https://www.youtube.com/@PegasusSniperbot">
+          <a href="https://www.youtube.com/">
             <svg
               width="40"
               height="48"
@@ -177,7 +174,7 @@ const Footer = () => {
         </div>
 
         <div className="text-white text-center max-w-[600px] text-xl font-normal leading-7 tracking-tight">
-          Pegasus Sniperbot {Date()} ©-All Rights Reserved.
+          FLOBY Sniperbot |Rewards FlokiInu {Date()} ©-All Rights Reserved.
         </div>
       </div>
     </footer>
