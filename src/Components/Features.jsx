@@ -17,7 +17,7 @@ const Features = () => {
         </h1>
 
         <p className="max-w-[757px] text-center text-white text-xl font-medium leading-10 tracking-tight">
-          Reigning in as a gift from the Gods, Pegasus SniperBot aims to give
+          Reigning in as a gift from the Gods, Floby SniperBot aims to give
           users the best experience by utilizing highly sophisticated software
           and services. From Automated Token Sniping - Auto Sell - Anti Rug & Hp Protectiun ! 
         </p>
