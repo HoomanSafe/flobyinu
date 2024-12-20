@@ -18,7 +18,7 @@ const Snipping = () => {
               </div>
               <div className="flex-col justify-start items-center gap-4 flex">
                 <div className="text-center text-white text-xl font-bold leading-7 tracking-tight">
-                  Meet Pegasus SniperBot
+                  Meet Floby SniperBot
                 </div>
                 <div className="text-center">
                   <span className="text-white text-base font-medium leading-10 tracking-tight">
@@ -35,7 +35,7 @@ const Snipping = () => {
                     {" "}
                   </span>
                   <span className="text-amber-400 text-base font-medium leading-10 tracking-tight">
-                    @pegaussniperbot
+                    @FlobyInu
                     <br />
                   </span>
                   <span className="text-white text-base font-medium leading-10 tracking-tight">
