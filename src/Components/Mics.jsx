@@ -11,13 +11,13 @@ const Mics = () => {
               TOKENOMICS
             </h1>
             <p className="text-white text-xl font-Bungee leading-7 tracking-tight">
-              Total Supply: 1,000,000 $PEGASUS
+              Total Supply: 1,000,000 $FLOBYINU
             </p>
 
             <div className="py-10 flex flex-col gap-5 border-b">
               <h4 className="flex items-center gap-4">
                 <AiOutlineCheck />
-                Buy/Sell Tax: 5% tax applied to each transaction of $PEGASUS.
+                Buy/Sell Tax: 7% tax applied to each transaction of $FLOBYINU.
               </h4>
               <h4 className="flex items-center gap-4">
                 <AiOutlineCheck />
@@ -47,7 +47,7 @@ const Mics = () => {
 
           <div className="flex flex-col gap-12">
             <h1 className="text-zinc-300 text-2xl font-normal leading-[33.60px] tracking-wide">
-              Tax Distribution
+              Tax Distribution 
             </h1>
             <div className="flex flex-col gap-6">
               <article className="flex flex-col gap-6">
@@ -82,7 +82,7 @@ const Mics = () => {
                 </h1>
                 <div className="w-full h-9 flex-col justify-start items-start gap-2 inline-flex">
                   <div className="opacity-60 text-center text-white text-base font-normal leading-snug tracking-tight">
-                    BotMaintenance (25%)
+                    BotMaintenance  & Rewards $Floki(25%)
                   </div>
                   <div className="w-full h-1.5 bg-white rounded-full justify-start items-center inline-flex">
                     <div className="w-12 h-1.5 relative bg-red-600 rounded-full" />
